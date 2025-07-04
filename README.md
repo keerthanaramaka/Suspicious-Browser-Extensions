@@ -2,67 +2,28 @@
 ## Objective
 To enhance browser security and performance by identifying and removing potentially harmful or unnecessary extensions.
 
-## Process Overview
-Accessed Chrome and Firefox extension managers.
+## Steps:
 
-Reviewed installed extensions for:
+Reviewed installed extensions.
 
-Permissions requested
+Checked permissions and reviews.
 
-User ratings and reviews
+Removed suspicious/unused items.
 
-Update history
+Restarted browser.
 
-Developer reputation
+Researched extension security risks.
 
-Flagged extensions with:
+## Findings:
 
-Excessive permissions
+Improved performance and reduced memory use.
 
-Low trust signals (poor reviews, inactive development)
+Risks identified: tracking, credential theft, ad/malware injection.
 
-Unnecessary functionality
+## Recommendations:
 
-Removed identified extensions.
+Check permissions before installing.
 
-Restarted browser to complete changes.
+Use reputable, updated extensions only.
 
-Verified improved performance and stability.
-
-Researched security threats posed by malicious extensions.
-## Tools Used
-Google Chrome Extension Manager
-
-Mozilla Firefox Add-ons Manager
-
-Online reviews and security blogs
-
-## Key Findings
-Removed multiple unused or suspicious extensions.
-
-Achieved faster browser startup and page loading.
-
-Reduced memory and CPU usage.
-
-Confirmed reduced background processes.
-
-Learned about risks such as:
-
-Privacy-invasive data collection
-
-Credential theft
-
-Ad or malware injection
-
-Unpatched vulnerabilities
-
-## Recommendations
-Always review extension permissions carefully.
-
-Install only from reputable developers with good reviews.
-
-Regularly audit and prune unused extensions.
-
-Keep all extensions updated.
-
-Limit the total number of extensions to minimize attack surface.
+Audit regularly to remove unneeded items.
